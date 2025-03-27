@@ -2,7 +2,7 @@
 
 <h2>�� Sobre</h2>
 <p>Projeto de cartas feito junto com os irmãos do canal Dev em Dobro. 
-<p>O objetivo, é mostrar um layout com espécies de guerreiros e suas habilidades.</p>  
+<p>O objetivo é, mostrar um layout com espécies de guerreiros, e suas habilidades.</p>  
 
 ## �� Tecnologias utilizadas
 
