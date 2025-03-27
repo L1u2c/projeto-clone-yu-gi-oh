@@ -1,4 +1,10 @@
-<h1>Projeto Yu-Gi-Oh!</h1>
+## Projeto Yu-Gi-Oh!
+
+<img width="200px"
+            src="src/imagens/cosmos-sentinel.png"
+            alt="Cosmos Sentinel, o Guardião Galáctico"
+            class="imagem-carta"
+          />
 
 <h2>�� Sobre</h2>
 <p>Projeto de cartas feito junto com os irmãos do canal Dev em Dobro. 
